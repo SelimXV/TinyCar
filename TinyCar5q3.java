@@ -24,11 +24,11 @@ public class TinyCar5q3 {
     double[] prix = new double[taillePanier];
     double[] prixTTC = new double[taillePanier];
 
-    // Remplissage des tableaux
+
 
     afficherTableaux(noms, prix, prixTTC);
 
-    // Calcul du total, min, max, moyenne
+
 
   }
 

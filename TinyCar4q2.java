@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class TinyCar4q2 {
 
     public static void main(String[] args) {

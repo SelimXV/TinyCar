@@ -47,8 +47,6 @@ public class TinyCar5q2 {
 
     System.out.println("Total TTC : " + totalTTC);
 
-    // Calcul du prix minimum, maximum, moyen, etc
-
   }
 
 }
